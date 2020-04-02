@@ -13,7 +13,7 @@ Grupa studencka:            WEL18EQ5S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Uruchomienie symulacji powoduje świecenie wbudowanej żółtej diody oznaczonej na płytce symbolem L. Przytrzymanie przycisku powoduje jej wyłączenie. Po zwolnieniu przycisku dioda znów się zapala.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
