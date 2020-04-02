@@ -15,6 +15,8 @@ Grupa studencka:            WEL18EQ5S1
 Pytanie:    *Jaki jest efekt działania programu?*  
 Odpowiedź:  Uruchomienie symulacji powoduje świecenie wbudowanej żółtej diody oznaczonej na płytce symbolem L. Przytrzymanie przycisku powoduje jej wyłączenie. Po zwolnieniu przycisku dioda znów się zapala.
 
+Po dodaniu funkcji delay() z parametrem 500. Dioda LED zapala się zgodnie z założeniem na 0,5 sekundy, co 1 sekundę.
+
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
 Odpowiedź:  ...
