@@ -27,11 +27,11 @@ Odpowiedź:  Nie. Niektóre instrukcje wymagają chociaż jednokrotnego uruchomi
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  Dioda LED będzie świeciła przez 100 ms.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Przycisk zmiany świateł dla pieszych zmienia natychmiastowo na światło czerwone sygnalizator przeznaczony dla kierowców. Nie ma również odstępu pomiędzy ponownym użyciem przycisku dla pieszych co umożliwia całkowite wstrzymanie ruchu przez złośliwego pieszego. 
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
