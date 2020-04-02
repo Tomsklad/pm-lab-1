@@ -40,7 +40,7 @@ Odpowiedź:  Tak jest ono możliwe.
 # Zadania rozszerzajace
 ## Zadanie 3-1:
 Pytanie:    *Określić wady i zalety operowania na rejestrach mikrokontrolera.*  
-Odpowiedź:  ...
+Odpowiedź:  Rejestr pozwala na szybkie przechowywanie w pamięci zmiennych. Jest to szybka operacja jednakże skomplikowana do wykorzystania.
 
 ## Zadanie 3-2:
 Pytanie:    *Jaka jest treść nadawnaego tekstu? Proszę zapisać postać jawną i zakodowaną.*  
