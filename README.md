@@ -23,7 +23,7 @@ Odpowiedź:  Nie ma znaczenia.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  Tak, jednakże nie zawsze jest to opłacalne ze względu na optymalizację.
+Odpowiedź:  Nie. Niektóre instrukcje wymagają chociaż jednokrotnego uruchomienia. W takim przypadku można użyć pętli konstrukcji "do {} while {}". Pętla "while" wykonywana jest zawsze gdy spełniony jest zadany warunek. Do wyjścia z niej można sterować warunkiem lub poleceniem "break". Natomiast pętla "for" uwzględnia możliwość zadeklarowania zmiennej wewnątrz jej struktury, zadania warunku, oraz inkrementacji/dekrementacji tej zmiennej np. for(int i = 0; i<3; i++). 
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
